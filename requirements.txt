@@ -6,12 +6,4 @@ joblib==1.4.2
 plotly==5.20.0
 python-dotenv==1.0.1
 groq==0.9.0
-
-# PDF
 reportlab==4.1.0
-
-# UI / formatting
-rich==14.2.0
-markdown-it-py==4.0.0
-mdurl==0.1.2
-pygments==2.19.2
